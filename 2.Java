@@ -1,10 +1,7 @@
 package Java2;
 
-import java.beans.Customizer;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
-import java.util.Random;
 
 class Main2 {
     public static void main(String args[]) {
